@@ -89,7 +89,7 @@ body {
   float: left;
 }
 
-.blog-title {
+.blog-heading {
   font-size: 1.5rem;
 }
 .blog-text {
@@ -138,4 +138,15 @@ body {
   font-size: 0.9rem;
   color: gray;
   margin-bottom: 32px;
+}
+
+.footer-content {
+  padding: 60px;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+.footer-content i {
+  margin: 0 8px;
 }
